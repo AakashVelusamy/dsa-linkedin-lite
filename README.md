@@ -1,6 +1,5 @@
 # LinkedIn Using Data Structures and Algorithms
 
-## Abstract
 This project examines the role of fundamental data structures—linked lists, stacks, queues, and binary trees—in implementing a social media network system using C++. Each data structure serves a distinct purpose in managing user interactions, connections, posts, and notifications within the network.
 
 ## Team Members
